@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[21],{555:function(n,t,l){"use strict";l.r(t);var e={},o=l(60),component=Object(o.a)(e,(function(){var n=this._self._c;return n("div",[n("App")],1)}),[],!1,null,null,null);t.default=component.exports;installComponents(component,{App:l(549).default})}}]);
